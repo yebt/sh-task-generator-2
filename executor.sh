@@ -20,7 +20,7 @@ fi
 # Construir cadena separada por comas
 joined=$(IFS=,; echo "${paths[*]}")
 
-echo "Ejecutando: gemini --include-directories $joined"
+echo "Ejecutando: gemini"
 gemini \
 	--include-directories "$joined" \
 	-p "Carga las instrucciones desde @GEMINI.md y @templates/task-base-template.md. La tarea a redactar se basa en: @basetask.txt"
