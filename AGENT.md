@@ -96,7 +96,17 @@ La siguiente lista de validación, es solo objetiva para validar si lo redactado
 
 
 
+## NOTE:
+
+Muy importante, la tarea, cuando trae esquemas, es importante incluirlos en la parte de implementación, porque si no, a quien se le va a asignar la tarea, no sabrá que implementar y lo hará diferente o fuera de como se ha descrito.
+
+
+
 ## Conclusión
 
 Cada tarea redactada, debe ir en la carpeta `./tasks`
+
+
+
+
 
