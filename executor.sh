@@ -21,7 +21,9 @@ fi
 joined=$(IFS=,; echo "${paths[*]}")
 
 echo "Ejecutando: gemini --include-directories $joined"
-gemini --include-directories "$joined"
+gemini \
+	--include-directories "$joined" \
+	-p "Carga las instrucciones desde @GEMINI.md y @templates/task-base-template.md. La tarea a redactar se basa en: @basetask.txt"
 exit $?
 
 # Construir comando; cada path es argumento separado
