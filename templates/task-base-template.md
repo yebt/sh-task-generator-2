@@ -57,17 +57,18 @@
 | **Lógica de Negocio**    | [Reglas específicas a implementar.]                          |
 | **Seguridad/Validación** | [Permisos de usuario, *middleware* de autorización, *hashing*, sanitización de datos.] |
 
+### Detalles de implementación
 
 
 Esta sección, también incluye, las descripciones a nivel de código, esquemas, estructuras, gráficos y diagramas necesarios para el entendimiento de la tarea. 
 
 Todo ese contenido anexo a lo técnico y en base al código, como:
 
-- Snippets de ejemplo.
-- Criterios de codificación.
-- Posibles problemáticas.
-- Patrones a aplicar.
-- Sugerencias de diseño arquitectónico.
+- Snippets de ejemplo (si aplica).
+- Criterios de codificación (si aplica).
+- Posibles problemáticas (si aplica).
+- Patrones a aplicar (si aplica).
+- Sugerencias de diseño arquitectónico (si aplica).
 
 
 
