@@ -94,3 +94,9 @@ La siguiente lista de validación, es solo objetiva para validar si lo redactado
 | **Independiente** | ¿La tarea puede ser desarrollada y probada de forma independiente, o tiene dependencias claras y documentadas? |
 | **Comunicada**    | ¿Las personas clave han revisado y aprobado la especificación? |
 
+
+
+## Conclusión
+
+Cada tarea redactada, debe ir en la carpeta `./tasks`
+
