@@ -59,8 +59,21 @@
 
 
 
-También se coloca en esta sección, las descripciones a nivel de código, esquemas, estructuras, gráficos y diagramas necesarios para el entendimiento de la tarea.
-Todo ese contenido anexo y técnico.
+Esta sección, también incluye, las descripciones a nivel de código, esquemas, estructuras, gráficos y diagramas necesarios para el entendimiento de la tarea. 
+
+Todo ese contenido anexo a lo técnico y en base al código, como:
+
+- Snippets de ejemplo.
+- Criterios de codificación.
+- Posibles problemáticas.
+- Patrones a aplicar.
+- Sugerencias de diseño arquitectónico.
+
+
+
+### Pasos a seguir sugeridos
+
+Usando la redacción de la tarea, se debe sugerir un modo de proceder y atacar la tarea.
 
 
 
@@ -92,6 +105,8 @@ Esta lista resume los pasos esenciales para completar la tarea.
 
 
 ## 6. ANEXOS Y RECURSOS ADICIONALES
+
+Omitibles si no poseen contenido
 
 * **Mocks/Prototipos:** [Enlaces a diseños de UI/UX, maquetas o prototipos.]
 * **Casos de Uso/Diagramas de Flujo:** [Diagramas que ilustran el flujo del usuario o del sistema.]
