@@ -23,6 +23,7 @@ joined=$(IFS=,; echo "${paths[*]}")
 echo "Ejecutando: gemini"
 gemini \
 	--include-directories "$joined" \
+	--approval-mode auto_edit \
 	-p "Carga las instrucciones desde @GEMINI.md y @templates/task-base-template.md. La tarea a redactar se basa en: @basetask.txt"
 exit $?
 
