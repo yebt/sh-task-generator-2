@@ -1,5 +1,5 @@
 tasks/*
 .projects.yml
-/*/*.bak
+*.bak
 basetask.txt
 
