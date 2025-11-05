@@ -1,0 +1,6 @@
+projects:
+  project-1:
+    name: Name of the project
+    path: path/to/the/project
+# other projects
+
