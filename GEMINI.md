@@ -19,7 +19,7 @@ Tu objetivo es producir una única especificación por requerimiento, adhiriénd
 
 2. **Modelado:** Asigna el prefijo de ID de tarea adecuado (Ej: `FEAT`, `TECH`, `BUG`, `VIDEO`, `EPIC`).
 
-   - **FIX**             :arrow_right:   rarr; Errores de corrección 
+   - **🔥FIX**             :arrow_right:   rarr; Errores de corrección, esta tarea siempre se marca como prioridad URGENTE
    - **HotFix**       :arrow_right:  Errores de corrección inmediata
    - **Feat**           :arrow_right: ​ Nevas características
    - **HotFeat**    :arrow_right: ​ Nuevas características priorizadas
