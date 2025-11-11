@@ -22,7 +22,7 @@ joined=$(IFS=,; echo "${paths[*]}")
 
 echo "Ejecutando: gemini"
 gemini \
-	--include-directories "$joined"
+	--include-directories "$joined,./templates/task-base-template.md"
 exit $?
 
 # Construir comando; cada path es argumento separado
