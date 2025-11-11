@@ -1,1 +1,4 @@
 !basetask.txt
+!/basetask.txt
+!tasks/*
+!/tasks/*
